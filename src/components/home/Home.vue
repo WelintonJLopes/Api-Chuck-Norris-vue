@@ -1,5 +1,6 @@
 <template>
 	<v-container class="pt-10 pt-md-15">
+		<!-- reference: https://api.chucknorris.io/ -->
 		<v-card max-width="500" class="mx-auto" dark>
 			<v-card-title>
 				<v-img src="https://api.chucknorris.io/img/chucknorris_logo_coloured_small@2x.png" width="500"></v-img>
